@@ -9,7 +9,8 @@
                 <div class="card-body">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Accusamus architecto atque blanditiis, deserunt dignissimos eum
-                    excepturi hic inventore iusto neque nulla, odit praesentium quis quo, quos sapiente sed sit totam!
+                    excepturi hic inventore iusto neque nulla, odit praesentium quis quo,
+                    quos sapiente sed sit totam!
                 </div>
             </div>
 
